@@ -46,4 +46,4 @@
 
 ## PUBLICATIONS
 
-### [1]Liu H, Wu N, Zhang Z, Zhong X, Zhang H, Guo H, Nie Y, Liu Y. Long noncoding RNA LINC00941 as a potential biomarker promotes the proliferation and metastasis of gastric cancer[J]. Frontiers in genetics. 2019; 10: 5. (SCI, IF:3.517)
+1. item * Liu H, Wu N, Zhang Z, Zhong X, Zhang H, Guo H, Nie Y, Liu Y. Long noncoding RNA LINC00941 as a potential biomarker promotes the proliferation and metastasis of gastric cancer[J]. Frontiers in genetics. 2019; 10: 5. (SCI, IF:3.517)*
