@@ -46,8 +46,8 @@
 
 ## PUBLICATIONS
 
-1. Liu H, Wu N, Zhang Z, Zhong X, Zhang H, Guo H, Nie Y, Liu Y. Long noncoding RNA LINC00941 as a potential biomarker promotes the proliferation and metastasis of gastric cancer[J]. Frontiers in genetics. 2019; 10: 5. (SCI, IF:3.517)
-2. Liu H, Zhang Z, Wu N, Guo H, Zhang H, Fan D, Nie Y, Liu Y. Integrative Analysis of Dysregulated lncRNA-Associated ceRNA Network Reveals Functional lncRNAs in Gastric Cancer[J]. Genes (Basel). 2018; 9: 303. (SCI, IF:3.331)
+1. **Liu H**, Wu N, Zhang Z, Zhong X, Zhang H, Guo H, Nie Y, Liu Y. Long noncoding RNA LINC00941 as a potential biomarker promotes the proliferation and metastasis of gastric cancer[J]. Frontiers in genetics. 2019; 10: 5. (SCI, IF:3.517, co-first author)
+2. **Liu H**, Zhang Z, Wu N, Guo H, Zhang H, Fan D, Nie Y, Liu Y. *Integrative Analysis of Dysregulated lncRNA-Associated ceRNA Network Reveals Functional lncRNAs in Gastric Cancer*[J]. Genes (Basel). 2018; 9: 303. (SCI, IF:3.331, co-first author)
 3.	Tong M, Liu H, Hao J, Fan D. Comparative pharmacoproteomics reveals potential targets for berberine, a promising therapy for colorectal cancer[J]. Biochemical and Biophysical Research Communications. 2020, 525(1): 244-250. (SCI, IF:2.705, co-first author)
 4.	Han Y, Wu N, Jiang M, Chu Y, Wang Z, Liu H, Cao J, Liu H, Xu B, Xie X. Long non-coding RNA MYOSLID functions as a competing endogenous RNA to regulate MCL-1 expression by sponging miR-29c-3p in gastric cancer[J]. Cell Proliferation, 2019; 52(6): e12678. (SCI, IF:5.039, co-corresponding author)
 5.	Wu N, Han Y, Liu H, Jiang M, Chu Y, Cao J, Lin J, Liu Y, Xu B, Xie X. miR-5590-3p inhibited tumor growth in gastric cancer by targeting DDX5/AKT/m-TOR pathway[J]. Biochemical and Biophysical Research Communications. 2018; 503: 1491-1497. (SCI, IF:2.705, co-first author)
